@@ -1,0 +1,4 @@
+Para quem tiver com problema no nome e e-mail, tem o comando:
+git config --global --replace-all user.name ""
+git config --global --replace-all user.email ""
+
